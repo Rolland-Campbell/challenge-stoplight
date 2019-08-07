@@ -4,6 +4,9 @@ margin-right: 50%;
 margin-top: 0%;
 margin-bottom: 0%;
 background-color: black;
+padding-left: 30px;
+padding-right: 30px;
+padding-bottom: 30px;
 }
 
 .smallbox{
@@ -13,7 +16,7 @@ background-color: black;
   margin: 0px;
   background-color: gray;
   border: 1px solid black;
-  margin-left: 30%;
+  margin-left: 37%;
 }
 
 .bigbox{
